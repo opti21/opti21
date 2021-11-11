@@ -3,12 +3,21 @@
 </h1>
 
 ### What i'm up to
-🔭Looking for a dev job 🔭
-📫 You can contact me on discord: opti21#7623 📫
+🔭Looking for a backend dev job
+
+📫 You can contact me on discord: opti21#7623
 
 ### What I currently know
+- Javascript
+- Typescript
+- Node.js
+- React
+- Next.js
 
-
+### 🤔What i'm Learning
+- Go
+- C++
+- Java
 
 ### Github Stats
 ![Opti's GitHub stats](https://github-readme-stats.vercel.app/api?username=opti21&theme=tokyonight&show_icons=true)
