@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">
+   Hiya 👋, Im opti
+</h1>
+
+### What i'm up to
+Currently find my way into the dev world. 
+
+### Github Stats
+![Opti's GitHub stats](https://github-readme-stats.vercel.app/api?username=opti21&theme=tokyonight&show_icons=true)
+
 
 <!--
 **opti21/opti21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
