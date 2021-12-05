@@ -11,11 +11,11 @@
 - Javascript
 - Typescript
 - Node.js
+- Go
 - React
 - Next.js
 
 ### 🤔What i'm Learning
-- Go
 - C++
 - Java
 
