@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hiya 👋, Im Brandon (opti)
+   Hiya 👋, I'm Brandon (opti)
 </h1>
 
 ### What i'm up to
