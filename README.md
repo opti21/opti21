@@ -20,11 +20,11 @@
 - Java
 
 ### Github Stats
-![Opti's GitHub stats](https://github-readme-stats.vercel.app/api?username=opti21&theme=tokyonight&show_icons=true)
+![Opti's GitHub stats](https://github-readme-stats.vercel.app/api?username=opti21&theme=nightowl&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opti21&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opti21&layout=compact&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Opti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=opti21)](https://github.com/anuraghazra/github-readme-stats)
+[![Opti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=opti21&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
