@@ -1,6 +1,14 @@
-<h1 align="center">
-   Hiya 👋, I'm Brandon (opti)
-</h1>
+# Hiya 👋, I'm Brandon (opti)
+
+<div align="left">
+  <a href="https://app.daily.dev/opti21" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/opti21/opti21/main/devcard.svg"
+    />
+  </a>
+</div>
 
 ### What i'm up to
 🔭Looking for a backend dev job
