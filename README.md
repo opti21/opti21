@@ -2,6 +2,8 @@
 Just a normal human being who enjoys programming and building cool things.
 Developer at Brickseek
 
+Nothing exciting here, most of it is private.
+
 📫 You can contact me on discord: opti21#7623
 
 # 💻Tech Stack
