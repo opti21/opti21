@@ -1,6 +1,17 @@
+# ![Hello](https://i.imgur.com/3uUQkyr.png) Hi there I'm Brandon or Opti!
+
+
 # 💫About Me :
 Just a normal human being who enjoys programming and building cool things.
 
+
+I've worked for:
+- [Brickseek](https://brickseek.com/)
+- [VeryHandsomeBilly](https://www.twitch.tv/veryhandsomebilly)
+- [ThePrimeagen](https://www.twitch.tv/ThePrimeagen)
+- [SethDrums](https://www.twitch.tv/sethdrums)
+
+# Want to work together?
 
 📫 You can contact me on discord: opti21#7623
 
