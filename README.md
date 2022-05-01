@@ -7,9 +7,18 @@ Just a normal human being who enjoys programming and building cool things.
 
 I've worked for:
 - [Brickseek](https://brickseek.com/)
-- [VeryHandsomeBilly](https://www.twitch.tv/veryhandsomebilly)
-- [ThePrimeagen](https://www.twitch.tv/ThePrimeagen)
+  - React Native
 - [SethDrums](https://www.twitch.tv/sethdrums)
+  - [sethdrums.com](https://sethdrums.com/)
+    - Next.js, Prisma, ChakraUI, Redis Enterprise, PostgreSQL
+  - Chatbot
+    - Node.js, Redis Enterprise, prisma
+- [VeryHandsomeBilly](https://www.twitch.tv/veryhandsomebilly)
+  - Chatbot (Node.js)
+- [ThePrimeagen](https://www.twitch.tv/ThePrimeagen)
+  - [DevHour Podcast Website](https://www.devhour.live/) (Supposed to look bad)
+  - OnlyDevs website
+
 
 # Want to work together?
 
