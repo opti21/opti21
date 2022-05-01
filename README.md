@@ -4,10 +4,7 @@
 # 💫About Me :
 Just a normal human being who enjoys programming and building cool things.
 
-
-I've worked for:
-- [Brickseek](https://brickseek.com/)
-  - React Native
+Stuff I've built:
 - [SethDrums](https://www.twitch.tv/sethdrums)
   - [sethdrums.com](https://sethdrums.com/)
     - Next.js, Prisma, ChakraUI, Redis Enterprise, PostgreSQL
@@ -19,6 +16,12 @@ I've worked for:
   - [DevHour Podcast Website](https://www.devhour.live/) (Supposed to look bad)
   - OnlyDevs website
 
+Some things i've helped build:
+- [Brickseek](https://brickseek.com/)
+  - React Native
+
+## Things i'm learning:
+- Go
 
 # Want to work together?
 
