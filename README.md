@@ -6,7 +6,7 @@ Just a normal human being who enjoys programming and building cool things.
 
 Stuff I've built:
 - [SethDrums](https://www.twitch.tv/sethdrums)
-  - [sethdrums.com](https://sethdrums.com/)
+  - [sethdrums.com](https://sethdrums.com/) Real time song request panel.
     - Next.js, Prisma, ChakraUI, Redis Enterprise, PostgreSQL
   - Chatbot
     - Node.js, Redis Enterprise, prisma
