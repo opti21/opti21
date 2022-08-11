@@ -13,7 +13,7 @@ Stuff I've built:
 - [VeryHandsomeBilly](https://www.twitch.tv/veryhandsomebilly)
   - Chatbot (Node.js)
 - [ThePrimeagen](https://www.twitch.tv/ThePrimeagen)
-  - [DevHour Podcast Website](https://www.devhour.live/) (Supposed to look bad)
+  - [DevHour Podcast Website](https://www.devhour.live/)
   - OnlyDevs website
 
 Some things i've helped build:
