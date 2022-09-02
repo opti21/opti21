@@ -2,7 +2,7 @@
 
 
 # 💫About Me :
-Just a normal human being who enjoys programming and building cool things.
+Full stack engineer who enjoys programming and building cool things.
 
 Stuff I've built:
 - [SethDrums](https://www.twitch.tv/sethdrums)
