@@ -1,10 +1,18 @@
 # ![Hello](https://i.imgur.com/3uUQkyr.png) Hi there I'm Brandon or Opti!
 
+Here's my personal site: [opti21.dev](https://opti21.dev)
 
 # 💫About Me :
 Full stack engineer who enjoys programming and building cool things.
 
-Stuff I've built:
+# Places i've helped build:
+- [Thumbnail Test](https://thumbnailtest.com)
+  - Thumbnail Test is a tool for Youtube creators to A/B test thumbnails and titles on their videos to see what gets the most engagement.
+  - Overhauled the UI for the entire application to improve UI responsiveness and UX. Integrated Stripe webhook to process subscriptions. With the improved UI/UX the site has reached an MRR of $1000 and growing.
+- [Brickseek](https://brickseek.com/)
+  - React Native
+
+# Stuff I've built:
 - [SethDrums](https://www.twitch.tv/sethdrums)
   - [sethdrums.com](https://sethdrums.com/) Real time song request panel.
     - Next.js, Prisma, ChakraUI, Redis Enterprise, PostgreSQL
@@ -15,10 +23,6 @@ Stuff I've built:
 - [ThePrimeagen](https://www.twitch.tv/ThePrimeagen)
   - [DevHour Podcast Website](https://www.devhour.live/)
   - OnlyDevs website
-
-Some things i've helped build:
-- [Brickseek](https://brickseek.com/)
-  - React Native
 
 ## Things i'm learning:
 - Go
