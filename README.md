@@ -8,7 +8,7 @@ Full stack engineer who enjoys programming and building cool things.
 # Places i've helped build:
 - [Thumbnail Test](https://thumbnailtest.com)
   - Thumbnail Test is a tool for Youtube creators to A/B test thumbnails and titles on their videos to see what gets the most engagement.
-  - Overhauled the UI for the entire application to improve UI responsiveness and UX. Integrated Stripe webhook to process subscriptions. With the improved UI/UX the site has reached an MRR of $1000 and growing.
+  - Overhauled the UI for the entire application to improve UI responsiveness and UX. Integrated Stripe webhook to process subscriptions. With the improved UI/UX the site has reached an MRR of $3000 and growing.
   - Tech Stack:
     - Typescript, Next.js, Prisma, Node.js, MongoDB Atlas, Redis
 - [Brickseek](https://brickseek.com/)
