@@ -10,13 +10,16 @@ Full stack engineer who enjoys programming and building cool things.
 
 - [Thumbnail Test](https://thumbnailtest.com)
   - Thumbnail Test is a tool for Youtube creators to A/B test thumbnails and titles on their videos to see what gets the most engagement.
-  - Overhauled the UI for the entire application to improve UI responsiveness and UX. Integrated Stripe webhook to process subscriptions. With the improved UI/UX the site has reached an MRR of $15000 and growing.
+  - Overhauled the UI for the entire application to improve UI responsiveness and UX. Integrated Stripe webhook to process subscriptions. With the improved UI/UX the site has reached an MRR of $20,000 and growing.
   - Tech Stack:
     - Typescript, Next.js, Prisma, Node.js, MongoDB Atlas, Redis
 
 # Stuff I've built:
 
-- [OfficeDrummer](https://www.officedrummerwearswigs.com/)
+- [Trek](https://www.raycast.com/opti21/trek)
+  - Raycast extension for accessing Basecamp
+  - Typescript, Raycast API
+- [OfficeDrummer](https://twitch.tv/officedrummer)
   - [Song Request Wheel](https://www.officedrummerwearswigs.com/)
     - Next.js, drizzle, turso(sqlite), Tailwind
   - Chatbot
