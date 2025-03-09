@@ -19,6 +19,9 @@ Full stack engineer who enjoys programming and building cool things.
 - [Trek](https://www.raycast.com/opti21/trek)
   - Raycast extension for accessing Basecamp
   - Typescript, Raycast API
+ 
+<a title="Install trek Raycast Extension" href="https://www.raycast.com/opti21/trek"><img src="https://www.raycast.com/opti21/trek/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
+
 - [OfficeDrummer](https://twitch.tv/officedrummer)
   - [Song Request Wheel](https://www.officedrummerwearswigs.com/)
     - Next.js, drizzle, turso(sqlite), Tailwind
