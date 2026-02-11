@@ -10,7 +10,7 @@ Full stack engineer who enjoys programming and building cool things.
 
 - [Thumbnail Test](https://thumbnailtest.com)
   - Thumbnail Test is a tool for Youtube creators to A/B test thumbnails and titles on their videos to see what gets the most engagement.
-  - Overhauled the UI for the entire application to improve UI responsiveness and UX. Integrated Stripe webhook to process subscriptions. With the improved UI/UX the site has reached an MRR of $20,000 and growing.
+  - Overhauled the UI for the entire application to improve UI responsiveness and UX. Integrated Stripe webhook to process subscriptions.
   - Tech Stack:
     - Typescript, Next.js, Prisma, Node.js, MongoDB Atlas, Redis
 
